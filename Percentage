@@ -23,7 +23,7 @@ function lovedata()
 </head>
 <body>
 <center>
-<form class= "w-75 m-auto" class="form-group">
+<form class= "w-50 m-auto" class="form-group">
   <input name="name" class="form-control text-center" placeholder="Your Name" /> <span class= "pl-4 pr-4">+</span>
   <input name="name" class="form-control text-center" placeholder="Your Partner Name"/><br/><br/>
   <button  class="btn btn-success w-50" OnClick= "lovedata()">Click</button><br/><br/>
